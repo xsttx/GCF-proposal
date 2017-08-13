@@ -1,1 +1,1 @@
-# GCF-proposal
+# Global Challenge Foundation Proposal
